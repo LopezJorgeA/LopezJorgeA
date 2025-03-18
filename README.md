@@ -1,6 +1,3 @@
-## Hola soy Jorge!
-soy..
-
 Fullstack developer en Darpha Fire Solutions 🔥 <br/>
 Web dev usando React 🚀 <br/>
 Aficionado de Python 🐍 <br/>
